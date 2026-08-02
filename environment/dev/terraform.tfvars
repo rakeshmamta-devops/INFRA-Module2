@@ -7,4 +7,10 @@ rgs = {
     rg_name     = "devrg02"
     rg_location = "east japan"
   }
+
+  rgs03 = {
+    rg_name     = "devrg03"
+    rg_location = "east us"
+  }
+
 }
